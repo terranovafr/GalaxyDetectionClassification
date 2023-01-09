@@ -1,18 +1,15 @@
 # Galaxy Object Detector
 
 # Workflow
-<br />
 <b>Step 1.</b> Create a new virtual environment with your IDE or with the following command (in the latter, it must be in the same folder you are working on your code in the IDE):
 <pre>
 python -m venv odod
-</pre> 
-<br/>
+</pre>
 <b>Step 2.</b> Activate your virtual environment
 <pre>
 source odod/bin/activate # Linux
 .\odod\Scripts\activate # Windows 
 </pre>
-<br/>
 <b>Step 3.</b> Install dependencies and add virtual environment to the Python Kernel
 <pre>
 python -m pip install --upgrade pip
@@ -21,7 +18,7 @@ python -m ipykernel install --user --name=odod
 </pre>
 
 ## Holdout method for training
-<b>Step 4.</b> Use the dataPreparation jupyter notebook to setup the data environment.
+<b>Step 4.</b> Use the environmentPreparation jupyter notebook to setup the environment.
 <br/>
 Organize your images by moving them in the workspace/raw_data folder.
 <br/>
