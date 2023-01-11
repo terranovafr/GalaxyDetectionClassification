@@ -1,6 +1,6 @@
 
 
-# Why galaxies? 
+# Why galaxies? :milky_way:
 
 Machine Learning played a crucial role in astronomical applications, and galaxy classification has without a doubt benefitted from Deep Learning techniques. In particular, it has helped astronomers in identifying the morphology of galaxies, a task paramount not only for understanding their formation but also for understanding the origins and development of the universe. 
 
