@@ -51,6 +51,7 @@ python -m ipykernel install --user --name=odod
 <li>rebalancing: train and evaluate the CNN with data augmentation</li>
 <li>K-Fold CV: train and compare a set of models according to the K-Fold CV</li>
 <li>modelResultsAnalysis: run the Wilcoxon signed rank sum test on K-Fold CV results</li>
+<li>ensemble: evaluate the ensemble of CNN and fine-tuned VGG-16</li>
 <li>hyperparametersOptimization: run the bayesian hyperparameters optimization</li>
 <li>hyperoptimizedModel: train and evaluate the hyper-optimized model</li>
 <li>visualization/: folder containing the jupyter notebooks providing the visualization techniques used (CAM, Convnet filters, Intermediate Activations)</li>
