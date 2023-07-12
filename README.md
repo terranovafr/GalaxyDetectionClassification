@@ -7,7 +7,7 @@ Machine Learning played a crucial role in astronomical applications, and galaxy 
 
 This project aims to develop a software pipeline capable of detecting and classifying galaxies during astronomical observations using a telescope. The project is divided into two modules: [*Galaxy Classification*](./GalaxyClassification) and [*Object Detection*](./ObjectDetection).<br>
 The Galaxy Classification module is designed to classify galaxies into their respective classes based on the images captured during visual observations. It utilizes a classifier that analyzes the characteristics of the galaxy image and assigns it to the appropriate class.<br>
-On the other hand, the Object Detection module focuses on detecting the precise locations of galaxies in the observed images. By employing advanced techniques, this module identifies and localizes galaxies within the astronomical observation data.<br>
+On the other hand, the Object Detection module focuses on detecting the precise locations of galaxies in the observed images. By employing advanced techniques, this module identifies and localizes galaxies within the astronomical observation data.<br> 
 For further details and instructions on each module, please refer to the README file provided in their respective subfolders. The README files contain all the necessary information to understand and utilize each module effectively.
 <img width="1370" alt="Pasted Graphic" src="https://github.com/terranovaa/GalaxyClassification/assets/61695945/bf0c9a9a-c426-4e9b-9080-0387b68c7284">
 <p align="center"><h2>Object Detection</h2></p>
